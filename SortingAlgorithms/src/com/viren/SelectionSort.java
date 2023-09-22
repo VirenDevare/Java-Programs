@@ -15,7 +15,6 @@ public class SelectionSort {
             int maxIndex = getMaxIndex(arr, 0, last);
 
              swap(arr, maxIndex, last);
-
         }
     }
 
